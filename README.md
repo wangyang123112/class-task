@@ -1,5 +1,5 @@
 # 第一次的作业
-···
+```
 <?php 
 	echo "<h1>第一题</h1>";
 	$array_rand = array();
@@ -49,4 +49,4 @@
 		echo '输出：'.$array_number_[$i];
 	}
 ?>
-···
+```
